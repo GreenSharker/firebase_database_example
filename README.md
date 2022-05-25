@@ -1,7 +1,7 @@
 # 파이어베이스 데이터베이스 연결하고, CRUD 구현하는 프로젝트(플러터)
 
 ## 사용법
-### 추가
+## 추가
 - 메인화면에 추가 버튼을 클릭합니다.
 <img width="30%" src="https://user-images.githubusercontent.com/48400348/170156681-04a88b62-5903-4e49-b228-373e5751b53e.png">
 
@@ -12,7 +12,7 @@
 <img width="30%" src="https://user-images.githubusercontent.com/48400348/170157313-11d13058-137d-4c88-ad55-dd879ffceecf.png">
 
 
-### 갱신(업데이트)
+## 갱신(업데이트)
 - 메인화면에 연필 아이콘을 클릭합니다.
 <img width="30%" src="https://user-images.githubusercontent.com/48400348/170157727-43a05699-6c3a-4a52-8d58-5692b603446f.png">
 
@@ -22,6 +22,10 @@
 - 입력완료되면 "수정완료" 버튼을 클릭합니다.
 <img width="30%" src="https://user-images.githubusercontent.com/48400348/170157981-d809f7e9-94fc-4c00-a697-940a30802fca.png">
 
-### 삭제
+## 삭제
 - 메인화면에 삭제할 항목을 고른 후, 휴지통 아이콘을 클릭합니다.
 <img width="30%" src="https://user-images.githubusercontent.com/48400348/170158344-1fdfc146-037c-422f-a92e-92bcad386347.png">
+
+### 설치된 라이브러리
+- firebase_core
+- cloud_firestore
